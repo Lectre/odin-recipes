@@ -1,0 +1,17 @@
+body{
+    font-weight: bolder;
+    background-color: yellowgreen;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+    padding: 32px;
+    border: 2px solid red ;
+    margin: 32px;
+}
+ul{
+    color: saddlebrown;
+}
+ol{
+    color: blueviolet;
+}
